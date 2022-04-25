@@ -1,7 +1,7 @@
 # IBM ODMDev
 ODMDev github organization has been used for sharing open source code associated to IBM Operational Decision Manager.
 
-Please access to the ODM open source contributions under the renamed organization DecisionsDev: https://github.com/DecisionsDev
+Please access the ODM open source contributions under the renamed organization DecisionsDev: https://github.com/DecisionsDev
 <br><br>All repositories previously present under ODMDev organization continue to be available under DecisionsDev.
 And thanks to the github organization renaming all https://github.com/ODMDev/repo urls continue to work.
 
