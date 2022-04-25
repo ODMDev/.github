@@ -1,12 +1,9 @@
-## Hi there 👋
+# IBM ODMDev
+ODMDev github organization has been used for sharing open source code associated to IBM Operational Decision Manager.
 
-<!--
+Please access to the ODM open source contributions under the renamed organization DecisionsDev: https://github.com/DecisionsDev
+<br><br>All repositories previously present under ODMDev organization continue to be available under DecisionsDev.
+And thanks to the github organization renaming all https://github.com/ODMDev/repo urls continue to work.
 
-**Here are some ideas to get you started:**
+For committers in projects started under ODMDev you should clone the repositories from the DecisionsDev organization.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
